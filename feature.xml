@@ -2,7 +2,7 @@
 <feature
       id="org.jmlspecs.SMTSolvers"
       label="SMTSolvers"
-      version="1.1.0"
+      version="1.2.0"
       provider-name="OpenJML">
 
    <description url="http://www.example.com/description">
@@ -21,6 +21,6 @@
          id="org.jmlspecs.Solvers"
          download-size="0"
          install-size="0"
-         version="1.1.0"/>
+         version="1.2.0"/>
 
 </feature>
