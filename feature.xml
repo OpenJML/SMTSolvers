@@ -6,15 +6,15 @@
       provider-name="OpenJML">
 
    <description url="http://www.example.com/description">
-      [Enter Feature Description here.]
+      This is feature consists of a plugin holding SMT solvers
    </description>
 
    <copyright url="http://www.example.com/copyright">
-      [Enter Copyright Description here.]
+      Individual SMT solvers have thier own copyright information.
    </copyright>
 
    <license url="http://www.example.com/license">
-      [Enter License Description here.]
+      Individual SMT solvers have thier own license information.
    </license>
 
    <plugin
